@@ -7,7 +7,7 @@ This is a simple "Hello, World!" application written in Dart.
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/rohiniSkadam/dart_hello_world.git
    
 2. **Navigate to the project directory:**
 
